@@ -5,7 +5,7 @@
   "scripts": {
     "start:dev": "concurrently \"cd client && npm run build\" \"cd server && npm run server\" ",
     "start": "npm run build && cd server && node server.js",
-    "server": "cd server node server.js --ignore client",
+    "server": "cd server && node server.js --ignore client",
     "build": "cd client && npm run build",
     "install": "cd client && npm install",
     "client": "cd client && npm start"
@@ -17,11 +17,13 @@
     "express": "^4.17.1",
     "idb": "^7.0.1",
     "if-env": "^1.0.4",
-    "webpack": "^5.70.0"
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "webpack": "^5.69.1"
   },
   "repository": {
     "type": "git",
@@ -30,6 +32,5 @@
   "bugs": {
     "url": "https://github.com/arbourKyle/verbose-rotary-phone/issues"
   },
-  "homepage": "https://github.com/arbourKyle/verbose-rotary-phone#readme",
-  "description": ""
+  "homepage": "https://github.com/arbourKyle/verbose-rotary-phone#readme"  
 }
