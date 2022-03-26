@@ -6,33 +6,18 @@
 
 [Installation](#installation)
 
-[Usage](#usage)
-
 [License](#license)
-
-[Contributing](#contributing)
-
-[Tests](#tests)
 
 [Questions](#questions)
 
 ## Description
 A web browser text editor with a PWA implementation that enables you to download it to your desktop and use it offline!
 
-## License
-This product is under the The Unlicense.
-
 ## Installation
 Visit this page https://stormy-refuge-83947.herokuapp.com/
 
-## Usage
-
-
-## Contributing
-
-
-## Tests
-
+## License
+This product is under the The Unlicense.
 
 ## Questions
 https://github.com/arbourkyle 
