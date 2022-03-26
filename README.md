@@ -6,13 +6,7 @@
 
 [Installation](#installation)
 
-[Usage](#usage)
-
 [License](#license)
-
-[Contributing](#contributing)
-
-[Tests](#tests)
 
 [Questions](#questions)
 
@@ -24,14 +18,6 @@ This product is under the The Unlicense.
 
 ## Installation
 Visit this page https://stormy-refuge-83947.herokuapp.com/
-
-## Usage
-
-
-## Contributing
-
-
-## Tests
 
 
 ## Questions
