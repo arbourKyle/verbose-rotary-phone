@@ -13,6 +13,9 @@
 ## Description
 A web browser text editor with a PWA implementation that enables you to download it to your desktop and use it offline!
 
+![](./img/browserApp.jpg)![](./img/desktopApp.jpg)
+
+
 ## Installation
 Visit this page https://stormy-refuge-83947.herokuapp.com/
 
